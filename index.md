@@ -1,2 +1,2 @@
 
-Welcome to puffOS's website be patiently website is work-on-progress.
+Welcome to MuslimOS's website be patiently website is work-on-progress.
