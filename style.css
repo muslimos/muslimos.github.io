@@ -1,4 +1,4 @@
-body{background-color: #3d7811;color: #ccc;font-family:"Source Code Pro",monospace; font-size:20px;line-height:1.5em;}
+body{background-color: #008080;color: #ccc;font-family:"Source Code Pro",monospace; font-size:20px;line-height:1.5em;}
 header,main,aside,footer{display:block;max-width:42em;margin:0 auto;}
 header{text-align:center;}
 header h1 a{display:block;margin:2em;}
